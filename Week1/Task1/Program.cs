@@ -48,6 +48,7 @@ namespace Task1
                     sum++; // Every time it returns true, we count.
                 }
             }
+            Console.WriteLine(sum);
 
             for (int i = 0; i < n; i++)
             {
